@@ -1,1 +1,3 @@
-Helloo, this is a front-end part of a Face-Recognition project to learn REACT from Udemy Zero-to-Mastery Web dev course.
+## face-recongnition
+
+Front-end in React for Face-Recognition project.
